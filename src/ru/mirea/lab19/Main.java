@@ -6,7 +6,7 @@ public class Main {
 
     static  boolean search =false;
 
-    public static Student[] arr={new Student("Заволокин", "Иван", "Сергеевич", 79),
+    public static Student[] arr={new Student("Иванов", "Тимоха", "Павлович", 79),
             new Student("Бедрединов", "Роман", "Равильевич", 48),
             new Student("Азарян", "Давид", "Ноунеймович", 65),
             new Student("Сердюк", "Саша", "Петров", 95)
