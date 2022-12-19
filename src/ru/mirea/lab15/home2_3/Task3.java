@@ -22,7 +22,7 @@ public class Task3 extends JFrame {
 
     public Clipboard clipboard = Toolkit.getDefaultToolkit().getSystemClipboard();
 
-    public ImageIcon img= new ImageIcon("C:\\Users\\djher\\IdeaProjects\\homework 2\\src\\asocs_and_vmware_partnership.jpg");
+    public ImageIcon img= new ImageIcon("C:\\Users\\djher\\IdeaProjects\\Homework1\\src\\ru\\mirea\\asocs_and_vmware_partnership.jpg");
 
     Task3()
     {
