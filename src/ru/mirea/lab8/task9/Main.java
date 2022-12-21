@@ -1,9 +1,10 @@
-package ru.mirea.lab8;
+package ru.mirea.lab8.task9;
 
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+
 
 
         Scanner input = new Scanner(System.in);
